@@ -12,4 +12,4 @@ By Dinesh Bana
 
 ![badge](https://img.shields.io/badge/Web%20Design%20Landing%20Page-HTML%20%26%20CSS-yellowgreen)
 
-## Project Link: [My Website](https://crypto-webpage.netlify.app/)
+## Project Link: [My Website](https://web-design-webpage.netlify.app/)
